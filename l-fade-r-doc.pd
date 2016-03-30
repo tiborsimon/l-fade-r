@@ -1,0 +1,18 @@
+#N canvas 214 234 275 615 10;
+#X text 66 51 Created by Tibor Simon;
+#X text 91 66 tiborsimon.io;
+#X text 110 26 L-Fade-R;
+#X text 119 90 v1.0;
+#X text 47 396 You can do this outside of PD..;
+#X text 48 420 OSX: Soundflower;
+#X text 30 462 3 Select your redirected system;
+#X text 48 473 sound as the input.;
+#X text 48 408 Windows: VB-Audio Virtual Cable;
+#X text 30 494 4 Turn on the DSP.;
+#X text 30 517 5 Use the slider to fade between;
+#X text 48 529 left and right side.;
+#X text 30 549 6 Optionally: test your setup;
+#X text 49 561 with the Test switch.;
+#X text 30 439 2 In PD: Media->Audio Settings...;
+#X text 29 384 1 Redirect your system sound.;
+#X coords 0 -1 1 1 250 590 2 10 10;
