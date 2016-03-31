@@ -1,9 +1,12 @@
-#N canvas 738 167 274 615 10;
-#X obj 62 180 l-fade-r-core;
-#X obj 102 140 tgl 15 0 empty empty DSP_on/off 17 7 0 10 -262144 -1
+#N canvas 557 126 302 638 10;
+#X obj 75 189 l-fade-r-core;
+#X obj 96 157 tgl 15 0 empty empty Test 17 7 0 10 -262144 -1 -1 0 1
+;
+#X obj 137 139 tgl 15 0 empty empty DSP_on/off 17 7 0 10 -262144 -1
 -1 1 1;
-#X obj 128 156 tgl 15 0 empty empty Test 17 7 0 10 -262144 -1 -1 0
-1;
-#X obj 12 11 l-fade-r-doc;
+#X obj 25 20 l-fade-r-doc;
+#X obj 162 161 tgl 15 0 empty empty Bypass 17 7 0 10 -262144 -1 -1
+1 1;
 #X connect 1 0 0 0;
 #X connect 2 0 0 1;
+#X connect 4 0 0 2;
