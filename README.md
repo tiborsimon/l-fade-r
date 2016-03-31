@@ -8,6 +8,8 @@ I created this simple audio tool for my [interactive YouTube guitar videos]() an
 player, and I like to practice to my favorite songs while I listen to the music itself. With __L Fade R__ I am be able to 
 filter out the main guitar parts for most of the records (it depends on the actual mix) I listen to _without loosing quality_.
 
+<img src="https://raw.githubusercontent.com/tiborsimon/l-fade-r/master/l-fade-r-gui.png" alt="L Fade R GUI" width=178 />
+
 # Requirements
 
 - [Pure data](http://puredata.info)
