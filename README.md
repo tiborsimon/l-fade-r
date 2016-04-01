@@ -5,8 +5,8 @@ Discover your favorite records in a whole new perspective. You can interactively
 channels, and __L Fade R__ will mix the modified mix into a single __mono__ channel.
 
 I created this simple audio tool for my [interactive YouTube guitar videos]() and also for practicing. I am a guitar 
-player, and I like to practice to my favorite songs while I listen to the music itself. With __L Fade R__ I am be able to 
-filter out the main guitar parts for most of the records (it depends on the actual mix) I listen to _without loosing quality_.
+player, and I like to practice my favorite songs while I listen to the music itself. With __L Fade R__ I am be able to 
+filter out the main guitar parts from most of the records I listen to _without any quality loss_. The actual result depends on the mix.
 
 <img src="https://raw.githubusercontent.com/tiborsimon/l-fade-r/master/l-fade-r-gui.png" alt="L Fade R GUI" width=178 />
 
