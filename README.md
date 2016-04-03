@@ -8,7 +8,7 @@ I created this simple audio tool for my [interactive YouTube guitar videos]() an
 player, and I like to practice my favorite songs while I listen to the music itself. With __L Fade R__ I am be able to 
 filter out the main guitar parts from most of the records I listen to _without any quality loss_. The actual result depends on the mix.
 
-<img src="https://raw.githubusercontent.com/tiborsimon/l-fade-r/master/l-fade-r-gui.png" alt="L Fade R GUI" width=178 />
+<img src="https://raw.githubusercontent.com/tiborsimon/l-fade-r/master/docs/l-fade-r-gui.png" alt="L Fade R GUI" width=178 />
 
 # Requirements
 
@@ -26,7 +26,7 @@ generate sound, video, 2D/3D graphics, and interface sensors, input devices, and
 >
 
 You can install __Pure Data__ with the installers downloaded from it's official website. I have tested the currently 
-(2015.04.01) available release (0.46.7) for Windows and OS X and they worked fine for me.
+(2015.04.01) available release (0.46.7) for Windows and OS X and they worked fine for me. I used the _vanilla_ release because it is a much smaller package than the feature packed _extended_ release.
 
 Follow this link to download your copy of __Pure Data__: http://puredata.info/downloads
 
