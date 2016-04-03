@@ -39,6 +39,22 @@ Download and install the latest __Soundflower__ release from GitHub: https://git
 
 Download and install the latest __Virtual Cable__ from it's official website: http://vb-audio.pagesperso-orange.fr/Cable/
 
+## Setting up Virtual Cable on Windows
+
+After you installed __Virtula Cable__ on your machine, you have to go to the _Control Panel_ -> _Sound_ settings, and select _CABLE Input_ as your playback device. Then in Pure Data go to _Media_ -> _Audio Settings_ and choose _CABLE Output_ as the input. It is a good idea to turn off any sound enchancement as it can mix the left and right channels together, and you can't achieve a full left-right separation.
+
+<img src="https://raw.githubusercontent.com/tiborsimon/l-fade-r/master/docs/win-settings-01.png" alt="L Fade R GUI" width=178 />
+<img src="https://raw.githubusercontent.com/tiborsimon/l-fade-r/master/docs/win-settings-02.png" alt="L Fade R GUI" width=178 />
+<img src="https://raw.githubusercontent.com/tiborsimon/l-fade-r/master/docs/win-settings-03.png" alt="L Fade R GUI" width=178 />
+
+## Setting up Soundflower on OSX
+
+After you installed __Soundflower__ on your machine, you have to go to the _System Preferences_ -> _Sound_ settings, and select _Soundflower (2ch)_ as your output. Then in Pure Data go to _Media_ -> _Audio Settings_ and choose _Soundflower (2ch)_ as your input.
+
+<img src="https://raw.githubusercontent.com/tiborsimon/l-fade-r/master/docs/osx-settings-01.png" alt="L Fade R GUI" width=178 />
+<img src="https://raw.githubusercontent.com/tiborsimon/l-fade-r/master/docs/osx-settings-02.png" alt="L Fade R GUI" width=178 />
+
+# Contribute
 
 
 
