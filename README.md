@@ -83,7 +83,7 @@ You can bypass __L Fade R__ at any time with the _Bypass_ toggle switch.
 
 There is a [Wiki page](https://github.com/tiborsimon/l-fade-r/wiki) where I started to collect the records I processed with __L Fade R__. There is information about what you will hear by fading left or right with __L Fade R__. This could be useful, if you want to practice a special part, and want to see if that part could be filtered out with __L Fade R__.
 
-I also used a rating of 5 levels. 5 means that the record is very good for practicing (GP = Guitar Practicing), 1 means it is not the best record to separate out parts.
+I also used a rating of 5 levels. 5 means that the record is very good for practicing (GP = Guitar Practicing), 1 means it is not the best record to separate parts out.
 
 You can contribute to this [Wiki page](https://github.com/tiborsimon/l-fade-r/wiki) if you want. Make sure follow the contributing guide at the top of that [Wiki page](https://github.com/tiborsimon/l-fade-r/wiki).
 
