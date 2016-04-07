@@ -1,6 +1,6 @@
 # L Fade R
 
-<a title="Latest version" href="https://github.com/tiborsimon/simple-input-parser/releases/latest" target="_blank">
+<a title="Latest version" href="https://github.com/tiborsimon/l-fade-r/releases/latest" target="_blank">
    <img src="https://img.shields.io/badge/version-v1.0--beta.0-green.svg?style=flat" />
 </a>
 [![Gitter](https://badges.gitter.im/tiborsimon/l-fade-r.svg)](https://gitter.im/tiborsimon/l-fade-r?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
