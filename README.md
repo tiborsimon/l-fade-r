@@ -49,7 +49,7 @@ use [Virtual Cable]() on Windows and [Soundflower]() on OS X. There are alternat
 
 Download and install the latest __Virtual Cable__ from it's official website: http://vb-audio.pagesperso-orange.fr/Cable/
 
-After you installed __Virtula Cable__ on your machine, you have to go to the _Control Panel_ -> _Sound_ settings, and select _CABLE Input_ as your playback device. Then in Pure Data go to _Media_ -> _Audio Settings_ and choose _CABLE Output_ as the input. It is a good idea to turn off any sound enchancement as it can mix the left and right channels together, and you can't achieve a full left-right separation.
+After you installed __Virtual Cable__ on your machine, you have to go to the _Control Panel_ -> _Sound_ settings, and select _CABLE Input_ as your playback device. Then in Pure Data go to _Media_ -> _Audio Settings_ and choose _CABLE Output_ as the input. It is a good idea to turn off any sound enhancement as it can mix the left and right channels together, and you can't achieve a full left-right separation.
 
 <img src="https://raw.githubusercontent.com/tiborsimon/l-fade-r/master/docs/win-settings-01.png" alt="L Fade R GUI" width=178 />
 <img src="https://raw.githubusercontent.com/tiborsimon/l-fade-r/master/docs/win-settings-02.png" alt="L Fade R GUI" width=178 />
@@ -81,7 +81,7 @@ To use __L Fade R__ you:
 3. Turn on DSP (in the main window or in __L Fade R__ with the toggle switch (_DSP_on/off_).
 4. You are ready to go.
 5. Adjust the fade with the top, horizontal slider, and adjust the volume with the bottom, vertical slider.
-6. Optionally you can test your setup with the _Test_ toggle switch. You should hear a low pitch sine signal in the left cahnnel and a hight pitch sine signal in the right channel.
+6. Optionally you can test your setup with the _Test_ toggle switch. You should hear a low pitch tone in the left cahnnel and a high pitch tone in the right channel.
 
 <img src="https://raw.githubusercontent.com/tiborsimon/l-fade-r/master/docs/l-fade-r-gui.png" alt="L Fade R GUI" width=178 />
 
