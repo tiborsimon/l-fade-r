@@ -16,10 +16,10 @@
 #X msg 718 401 \$1 10;
 #X obj 718 421 line~;
 #X obj 540 507 *~;
-#X floatatom 718 384 5 0 0 0 - - -, f 5;
-#X floatatom 314 353 5 0 0 0 - - -, f 5;
+#X floatatom 718 384 5 0 0 0 - - -;
+#X floatatom 314 353 5 0 0 0 - - -;
 #X msg 314 370 \$1 10;
-#X floatatom 735 279 5 0 0 0 - - -, f 5;
+#X floatatom 735 279 5 0 0 0 - - -;
 #X obj 117 129 inlet;
 #X obj 718 364 r volume;
 #X obj 314 313 -;
@@ -48,7 +48,7 @@
 #X text 196 244 R;
 #X msg 334 170 0.2;
 #X msg 727 160 0.2;
-#X obj 19 24 l-fade-r-doc;
+#X obj 19 32 l-fade-r-doc;
 #X obj 735 259 r fade;
 #X obj 314 288 r fade;
 #X obj 76 163 inlet;
@@ -72,10 +72,10 @@
 #X msg 616 198 \$1 50;
 #X msg 575 198 \$1 50;
 #X msg 618 113 0;
-#X floatatom 442 179 5 0 0 0 - - -, f 5;
-#X floatatom 493 179 5 0 0 0 - - -, f 5;
-#X floatatom 577 177 5 0 0 0 - - -, f 5;
-#X floatatom 619 178 5 0 0 0 - - -, f 5;
+#X floatatom 442 179 5 0 0 0 - - -;
+#X floatatom 493 179 5 0 0 0 - - -;
+#X floatatom 577 177 5 0 0 0 - - -;
+#X floatatom 619 178 5 0 0 0 - - -;
 #X obj 618 150 ==;
 #X msg 442 112 0;
 #X obj 442 139 ==;
