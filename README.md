@@ -1,5 +1,13 @@
 # L Fade R
 
+<a title="Latest version" href="https://github.com/tiborsimon/simple-input-parser/releases/latest" target="_blank">
+   <img src="https://img.shields.io/badge/version-v1.0--beta.0-green.svg?style=flat" />
+</a>
+[![Gitter](https://badges.gitter.im/tiborsimon/l-fade-r.svg)](https://gitter.im/tiborsimon/l-fade-r?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+<a title="License" href="#license">
+   <img src="http://img.shields.io/badge/license-MIT-lightgray.svg?style=flat" />
+</a>
+
 Real-time spatial audio filter with [Pure Data](http://puredata.info). 
 Discover your favorite records in a whole new perspective. You can interactively fade between the __left__ and __right__ 
 channels, and __L Fade R__ will mix the modified mix into a single __mono__ channel.
