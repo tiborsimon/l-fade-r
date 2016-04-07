@@ -12,8 +12,8 @@ Real-time spatial audio filter with [Pure Data](http://puredata.info).
 Discover your favorite records in a whole new perspective. You can interactively fade between the __left__ and __right__ 
 channels, and __L Fade R__ will mix the modified mix into a single __mono__ channel.
 
-I created this simple audio tool for my [interactive YouTube guitar videos]() and also for practicing. I am a guitar 
-player, and I like to practice my favorite songs while I listen to the music itself. With __L Fade R__ I am be able to 
+I created this simple audio tool for _practicing_ the guitar and for _discovering_ my favorite records in a new perspective. I am a 
+guitar player, and I like to practice my favorite songs while I listen to the music itself. With __L Fade R__ I am be able to 
 filter out the main guitar parts from most of the records I listen to _without any quality loss_. The actual result depends on the mix. __L Fade R__ is mainly useful for guitar players, as the guitar is the instrument that often mixed in one side of the record.
 
 <img src="https://raw.githubusercontent.com/tiborsimon/l-fade-r/master/docs/l-fade-r-gui.png" alt="L Fade R GUI" width=178 />
