@@ -18,7 +18,7 @@ filter out the main guitar parts from most of the records I listen to _without a
 
 <img src="https://raw.githubusercontent.com/tiborsimon/l-fade-r/master/docs/l-fade-r-gui.png" alt="L Fade R GUI" width=178 />
 
-__L Fade R__ is also suitable for discovering your favorite music in a new level. By listening only one panoramic side of the record, you will be able to hear unheard melodies. If you hear discover something new, don't forget to share it with others. There is a dedicated [#l-fade-r]() hashtag on Twitter for this purpose.
+__L Fade R__ is also suitable for discovering your favorite music in a new level. By listening only one panoramic side of the record, you will be able to hear unheard melodies. If you hear discover something new, don't forget to share it with others. There is a dedicated [#l_fade_r](https://twitter.com/hashtag/l_fade_r?vertical=default&src=hash) hashtag on Twitter for this purpose.
 
 # Requirements
 
